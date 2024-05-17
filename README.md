@@ -2,7 +2,7 @@
 
 This project analyzes the relationship between pre-existing health conditions and the likelihood of contracting and/or dying due to COVID-19 using machine learning modeling techniques.
 
-Links to the csv's we provided:
+Links to datasets used:
 
 time_series_covid19_deaths_US.csv: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
 
